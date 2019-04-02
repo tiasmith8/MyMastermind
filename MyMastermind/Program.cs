@@ -13,7 +13,7 @@ namespace MyMastermind
 
             // Playing instructions
             Console.WriteLine("Welcome to the MyMastermind Game!\n");
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("Enter 4 numbers ranging from 1 to 6.");
             Console.WriteLine("You have 10 attempts to guess the correct numbers in the correct order.");
             Console.WriteLine("Example: 1346\n");
@@ -24,6 +24,7 @@ namespace MyMastermind
             //While number of tries isn't up
             while (game.RemainingAttempts > 0)
             {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.Write("Enter a Guess: ");
                 string guessCombination = Console.ReadLine();
 
@@ -32,7 +33,9 @@ namespace MyMastermind
 
                 if (!validInput)
                 {
-                    Console.WriteLine("\nInvalid Format. Try again");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("Invalid Format. Enter 4 numbers ranging from 1 to 6.\n");
+                    Console.ResetColor();
                     continue;
                 }
 
@@ -47,7 +50,7 @@ namespace MyMastermind
             }
             // Correct response was not guessed
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("You Lost.");
+            Console.WriteLine("You Lose.");
             Console.ResetColor();
         }
     }
