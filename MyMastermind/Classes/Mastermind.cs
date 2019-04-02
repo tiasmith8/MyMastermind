@@ -35,7 +35,7 @@ namespace MyMastermind.Classes
                 this.randomlyGeneratedAnswer += randomSeedValue;
             }
 
-            Console.WriteLine($"The Random Number is: {this.randomlyGeneratedAnswer}");
+            //Console.WriteLine($"The Random Number is: {this.randomlyGeneratedAnswer}");
         }
 
 
