@@ -1,0 +1,17 @@
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.Tests.deps.json
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.Tests.runtimeconfig.json
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.Tests.runtimeconfig.dev.json
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.Tests.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.Tests.pdb
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\bin\Debug\netcoreapp2.1\MyMastermind.pdb
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.csprojAssemblyReference.cache
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.AssemblyInfoInputs.cache
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.AssemblyInfo.cs
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.csproj.CopyComplete
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.dll
+C:\Users\Tia Smith\source\repos\MyMastermind\UnitTestProject2\obj\Debug\netcoreapp2.1\MyMastermind.Tests.pdb
