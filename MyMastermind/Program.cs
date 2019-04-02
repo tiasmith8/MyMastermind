@@ -44,7 +44,9 @@ namespace MyMastermind
                 Console.WriteLine($"{responsePlusOrMinus}");
                 if (responsePlusOrMinus.Equals("++++"))
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine("Congratulations, you won!");
+                    Console.ForegroundColor = ConsoleColor.White;
                     return;
                 }
             }
