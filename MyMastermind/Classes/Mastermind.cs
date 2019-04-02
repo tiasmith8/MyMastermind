@@ -40,13 +40,13 @@ namespace MyMastermind.Classes
 
 
         /// <summary>
-        /// Checks that guess is valid (between 1111 and 6666)
+        /// Checks that guess is a valid combination of numbers.
         /// </summary>
         /// <param name="guessCombination"></param>
         /// <returns></returns>
         public bool CheckValidInput(string guessCombination)
         {
-            // Check for empty string or string not of length 4
+            // Check for string not of length 4
             if(guessCombination.Length != 4)
             {
                 return false;
@@ -72,7 +72,7 @@ namespace MyMastermind.Classes
         public string CheckGuess(string guessedCombination)
         {
             string response = ""; // Will contain the +/-/empty string
-            List<char> temp = new List<char>(randomlyGeneratedAnswer); // List to hold values and "x" out for correct number but wrong position
+            List<char> temp = new List<char>(randomlyGeneratedAnswer); // List to hold values and "x" out for correct number but in the wrong position
             List<char> tempGuessed = new List<char>(guessedCombination);
             int firstIndexOf = -1;
 
